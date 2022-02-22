@@ -1,0 +1,5 @@
+name: quarkus-my-ext
+title: Quarkus - My Ext
+version: dev
+nav:
+  - modules/ROOT/nav.adoc
